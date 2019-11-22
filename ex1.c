@@ -14,6 +14,6 @@ int main()
         word=1;
         a++;
     }
-    printf("the number of words is:%d",a);
+    printf("The number of words is:%d",a);
     return 0;
 }
